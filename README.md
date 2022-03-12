@@ -27,4 +27,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/minshinkhant/TwitterClone/blob/main/demo2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<img src='https://github.com/minshinkhant/TwitterClone/blob/main/demo3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='https://github.com/minshinkhant/TwitterClone/blob/main/demo4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 # TwitterClone
